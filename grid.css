@@ -48,6 +48,10 @@ div.column > div.column__cell {
   -webkit-flex: 1 1 1px;
   -moz-flex: 1 1 1px;
   -ms-flex: 1 1 1px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
 }
 div.row > div.row__cell.row__cell--fixed,
 div.column > div.column__cell.column__cell--fixed {
