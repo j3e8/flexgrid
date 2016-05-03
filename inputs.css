@@ -1,21 +1,14 @@
 input[type=submit],
 input[type=button],
-button {
-  padding: 6px 12px;
-  border: none;
-  font-size: 14px;
-  cursor: pointer;
-  background-color: #ccc;
-  color: #000;
-}
-
+button,
 a.button {
-  padding: 6px 12px;
+  padding: 8px 12px;
   border: none;
   font-size: 14px;
   cursor: pointer;
   background-color: #ccc;
   color: #000;
+  text-decoration: none;
 }
 
 input[type=text],

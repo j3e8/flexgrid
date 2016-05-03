@@ -22,6 +22,12 @@ div.row.row--spaced, div.column.column--spaced {
 div.row--vertical-center, div.column--horizontal-center {
   align-items: center;
 }
+div.row--vertical-bottom, div.column--horizontal-right {
+  align-items: flex-end;
+}
+div.row--vertical-top, div.column--horizontal-left {
+  align-items: flex-start;
+}
 
 @media screen and (max-width: 640px) {
   div.row.row--spaced, div.column.column--spaced {
