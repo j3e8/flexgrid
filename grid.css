@@ -48,6 +48,12 @@ div.row.row--wrap, div.column.column--wrap {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
 }
+div.row > div.row__cell {
+  min-width: 0;
+}
+div.column > div.column__cell {
+  min-height: 0;
+}
 div.row > div.row__cell,
 div.column > div.column__cell {
   flex: 1 1 1px;
