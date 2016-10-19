@@ -1,6 +1,5 @@
 # flexgrid
-A better layout system than Bootstrap to quickly create responsive html for modern browsers
+A better layout system than Bootstrap to quickly create responsive html for modern browsers.
+This layout model does not make any assumptions about design, style or any other formatting--only layout.
 
-Download concatenated, minified flexgrid CSS at http://flooreight.com/flexgrid/flexgrid.min.css
-
-Lear more at http://flooreight.com/flexgrid/
+Learn more at http://flooreight.com/flexgrid/
